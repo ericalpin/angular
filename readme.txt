@@ -1,0 +1,1 @@
+This is a repo of all the exercises in the Egghead.io AngularJS course!
